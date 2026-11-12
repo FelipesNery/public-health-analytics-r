@@ -15,7 +15,7 @@ A collection of code adapted from real **public health and epidemiology** resear
 | # | Project | Main techniques |
 |---|---------|-----------------|
 | 01 | [Descriptive analysis and Table 1](Descriptive%20Analysis%20and%20Stratified/) | `gtsummary`, Fisher/Wilcoxon tests, export to Word |
-| 02 | [Contingency tables and risk measures](02_contingency_tables_association_risk.R) | Chi-square, Fisher's exact, McNemar, Risk Ratio, Odds Ratio |
+| 02 | [Contingency tables and risk measures](Contingency%20Tables,%20Association%20Tests%20and%20Risk%20Measures/) | Chi-square, Fisher's exact, McNemar, Risk Ratio, Odds Ratio |
 | 03 | [Group comparisons](03_group_comparison_ttest_wilcoxon_anova_tukey.R) | Shapiro-Wilk, Levene, t-test, Mann-Whitney + effect size, ANOVA + Tukey, Kruskal-Wallis + Dunn |
 | 04 | [Correlation analysis](04_correlation_analysis.R) | Pearson, Spearman, `corrplot`, `GGally` |
 | 05 | [Linear regression, Box-Cox and stepwise](05_linear_regression_boxcox_stepwise.R) | `lm`, VIF, Box-Cox transformation, stepwise selection, train/test validation (RMSE, R², MAE) |
